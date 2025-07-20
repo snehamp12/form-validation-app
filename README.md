@@ -15,17 +15,10 @@ A simple, responsive form built using **HTML**, **CSS**, and **JavaScript**, des
 ## Screenshot
 ![Form Screenshot](screenshot.png)
 
-Technologies Used
+## Technologies Used
 -HTML5
 -CSS3
 -JavaScript
-
-## Files Structure
-form-validation-app/
-├── index.html
-├── style.css
-├── script.js
-└── README.md
 
 ## Author
 [Sneha MP](https://github.com/snehamp12)
