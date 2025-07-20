@@ -7,4 +7,8 @@ This app checks for:
 - Password length and strength
 - Matching passwords
 
-[Live Demo](https://snehamp12.github.io/form-validation-app/)
+## Live Demo
+[Click here](https://snehamp12.github.io/form-validation-app/)
+
+## Screenshot
+![Preview](screenshot.png)
