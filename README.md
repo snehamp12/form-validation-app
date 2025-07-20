@@ -18,6 +18,6 @@ A simple, responsive form built using **HTML**, **CSS**, and **JavaScript**, des
 ## Technologies Used
 - HTML
 - CSS
-- JavaScript (Fetch API)
+- JavaScript
 ## Author
 [Sneha MP](https://github.com/snehamp12)
