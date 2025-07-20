@@ -16,9 +16,8 @@ A simple, responsive form built using **HTML**, **CSS**, and **JavaScript**, des
 ![Form Screenshot](screenshot.png)
 
 ## Technologies Used
--HTML5
--CSS3
--JavaScript
-
+- HTML
+- CSS
+- JavaScript (Fetch API)
 ## Author
 [Sneha MP](https://github.com/snehamp12)
