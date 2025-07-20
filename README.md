@@ -1,14 +1,31 @@
 # Form Validation App
 
-A simple and responsive form validation page using HTML, CSS, and JavaScript.  
-This app checks for:
-- Required fields
-- Valid email format
-- Password length and strength
-- Matching passwords
+A simple, responsive form built using **HTML**, **CSS**, and **JavaScript**, designed to validate user inputs in real-time.
+
+## Features
+- Required fields check
+- Valid email format validation
+- Password length and strength check
+- Confirm password match verification
+- Responsive UI with clean design
 
 ## Live Demo
 [Click here](https://snehamp12.github.io/form-validation-app/)
 
 ## Screenshot
-![Preview](screenshot.png)
+![Form Screenshot](screenshot.png)
+
+Technologies Used
+-HTML5
+-CSS3
+-JavaScript
+
+## Files Structure
+form-validation-app/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+
+## Author
+[Sneha MP](https://github.com/snehamp12)
